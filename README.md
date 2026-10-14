@@ -94,8 +94,6 @@ automatic-room-light-fan-control-system/
 
 ## Future improvements
 
-- Integrate and publish the full Arduino control program.
-- Include editable simulation project files and annotated circuit schematics.
 - Measure energy use under controlled conditions.
 - Explore wireless monitoring and additional environmental sensors.
 
