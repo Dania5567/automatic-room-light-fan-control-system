@@ -8,8 +8,6 @@ An Arduino-based room automation prototype exploring energy-efficient control of
 
 Traditional room lighting and fan setups often rely on manual switching. This project investigates automatic responses to room brightness and detected motion to reduce unnecessary operation. The report describes a solar panel supplying **12 V** to the circuit, LDR-based light detection, an NE555 timing stage, relay switching, and Arduino/PIR involvement.
 
-**Project team:** Dania Farrukh Ghouri, Sundas Rathore, and Momina Tabassum.
-
 ## Main components
 
 | Component | Role |
@@ -96,11 +94,3 @@ automatic-room-light-fan-control-system/
 
 - Measure energy use under controlled conditions.
 - Explore wireless monitoring and additional environmental sensors.
-
-## Project documentation
-
-Read the full original report: [`docs/LCS-Project-Report.docx`](docs/LCS-Project-Report.docx). All project photographs and simulation screenshots in this repository were extracted from that report.
-
-## Attribution
-
-Project work credited to **Dania Farrukh Ghouri, Sundas Rathore, and Momina Tabassum** as listed in the original report. No license is included because permissions for relicensing shared team work were not specified.
